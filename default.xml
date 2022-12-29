@@ -3,4 +3,5 @@
   <remote name="github" fetch=".."/>
   <default revision="refs/heads/master" remote="github" />
   <project path="linux" name="kernel-as-system/linux" />
+  <project path="tools" name="kernel-as-system/tools" />
 </manifest>
