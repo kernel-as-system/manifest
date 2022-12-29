@@ -4,4 +4,5 @@
   <default revision="refs/heads/master" remote="github" />
   <project path="linux" name="kernel-as-system/linux" />
   <project path="tools" name="kernel-as-system/tools" />
+  <project path="ramdisk" name="kernel-as-system/ramdisk" />
 </manifest>
