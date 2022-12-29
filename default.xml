@@ -2,5 +2,5 @@
 <manifest>
   <remote name="github" fetch=".."/>
   <default revision="refs/heads/master" remote="github" />
-  <project path="linux" name="torvalds/linux" revision="v4.9" />
+  <project path="linux" name="torvalds/linux" revision="refs/tags/v4.9" />
 </manifest>
